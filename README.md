@@ -1,5 +1,10 @@
 # kickstart.nvim
 
+## Install fork
+```sh
+git clone git@github.com:jtbrel/kickstart.nvim.git /Users/tb/.config/nvim
+```
+
 ## Introduction
 
 A starting point for Neovim that is:
